@@ -1,7 +1,7 @@
-# Numerical-Methods
+# qantum-physics
 
-Numerical Methods
+Qantum Mechanics
 
-## Error Analysis
+## Introduction
 
-We will discuss about the source of error....
+We will discuss about the Introduction of Quantum Mechanics....
