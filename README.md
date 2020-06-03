@@ -1,6 +1,6 @@
-# qantum-physics
+# Quantum Physics
 
-Qantum Mechanics
+Quantum Mechanics
 
 ## Introduction
 
